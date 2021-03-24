@@ -1,6 +1,13 @@
 # SymNets
 Official PyTroch implementation for ["Domain-Symnetric Networks for Adversarial Domain Adaptation (CVPR 2019)"](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.pdf).
-A sinigficant journal extension of this work (including a novel theoretical framework) is introduced at ["Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice"](https://arxiv.org/pdf/2002.08681.pdf). 
+
+# News!
+An extension of this work is recently accepted by **TPAMI 2020**, including 
+*  A new theoretical framework closely supports/motivates a serious algorithms, including SymNets and MCD. 
+*  A algorithm improvement and an unified framework for adversarial UDA.
+*  Excellent results of SymNets on tasks of partial and open set UDA. 
+
+TPAMI Paper ["Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice"](https://arxiv.org/pdf/2002.08681.pdf). and
 [Codes](https://github.com/YBZh/MultiClassDA) .
 ### Prerequisites
 Linux
@@ -22,10 +29,11 @@ Please refer to 'run.sh'
       year={2019}
     }
     @article{zhang2020unsupervised,
-      title={Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice},
-      author={Zhang, Yabin and Deng, Bin and Tang, Hui and Zhang, Lei and Jia, Kui},
-      journal={arXiv preprint arXiv:2002.08681},
-      year={2020}
+        title={Unsupervised multi-class domain adaptation: Theory, algorithms, and practice},
+        author={Zhang, Yabin and Deng, Bin and Tang, Hui and Zhang, Lei and Jia, Kui},
+        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+        year={2020},
+        publisher={IEEE}
     }
 
 ## Contact
