@@ -3,7 +3,7 @@ Official PyTroch implementation for ["Domain-Symnetric Networks for Adversarial 
 
 # News!
 An extension of this work is recently accepted by **TPAMI 2020**, including 
-*  A new theoretical framework closely supports/motivates a serious algorithms, including SymNets and MCD. 
+*  A new theoretical framework closely supports/motivates a series of algorithms, including SymNets and MCD. 
 *  A algorithm improvement and an unified framework for adversarial UDA.
 *  Excellent results of SymNets on tasks of partial and open set UDA. 
 
